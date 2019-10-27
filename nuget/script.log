@@ -1,0 +1,114 @@
+2019-10-17 15:54:44.5765 [DEBUG] [nuget] ok 
+2019-10-17 15:54:50.3852 [DEBUG] [nuget] ok 
+2019-10-17 15:57:03.6056 [DEBUG] [nuget]  
+2019-10-17 15:57:03.6056 [DEBUG] [nuget] find package file:  
+2019-10-17 15:59:18.7065 [DEBUG] [nuget]  
+2019-10-17 15:59:18.7420 [DEBUG] [nuget] find package file:  
+2019-10-17 16:01:06.1213 [DEBUG] [nuget] D:\hetao\github\tick_serializer\TickSerializer\bin\Debug 
+2019-10-17 16:01:06.1545 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\TickSerializer\bin\Debug\TickSerializer.1.0.27.nupkg 
+2019-10-17 16:01:32.4696 [DEBUG] [nuget] D:\hetao\github\tick_serializer\TickSerializer\bin\Debug 
+2019-10-17 16:01:32.5071 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\TickSerializer\bin\Debug\TickSerializer.1.0.26.nupkg 
+2019-10-17 16:04:46.0706 [DEBUG] [nuget] D:\hetao\github\tick_serializer\TickSerializer\bin\Debug 
+2019-10-17 16:04:46.1516 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\TickSerializer\bin\Debug\TickSerializer.1.0.27.nupkg 
+2019-10-17 16:06:33.9890 [DEBUG] [nuget] D:\hetao\github\tick_serializer\TickSerializer\bin\Debug 
+2019-10-17 16:06:34.0326 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\TickSerializer\bin\Debug\TickSerializer.1.0.27.nupkg 
+2019-10-17 16:06:58.9258 [DEBUG] [nuget] D:\hetao\github\tick_serializer\TickSerializer\bin\Debug 
+2019-10-17 16:06:58.9701 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\TickSerializer\bin\Debug\TickSerializer.1.0.28.nupkg 
+2019-10-17 16:09:47.9731 [DEBUG] [nuget] D:\hetao\github\tick_serializer\TickSerializer\bin\Debug 
+2019-10-17 16:09:48.0276 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\TickSerializer\bin\Debug\TickSerializer.1.0.28.nupkg 
+2019-10-18 17:16:34.9343 [DEBUG] [nuget] D:\hetao\github\tick_serializer\LiteMarketDatabase\bin\Debug 
+2019-10-18 17:16:35.0080 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\LiteMarketDatabase\bin\Debug\LiteMarketDatabase.1.0.8.nupkg 
+2019-10-19 22:01:56.5863 [DEBUG] [nuget] D:\hetao\github\tick_serializer\CSharpHdf\bin\Debug 
+2019-10-19 22:01:56.6452 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\CSharpHdf\bin\Debug\CSharpHdf.1.0.1.nupkg 
+2019-10-19 22:02:02.2278 [DEBUG] [nuget] D:\hetao\github\tick_serializer\TickSerializer\bin\Debug 
+2019-10-19 22:02:02.2836 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\TickSerializer\bin\Debug\TickSerializer.1.0.28.nupkg 
+2019-10-19 22:02:35.3664 [DEBUG] [nuget] D:\hetao\github\tick_serializer\TickSerializer\bin\Debug 
+2019-10-19 22:02:35.4112 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\TickSerializer\bin\Debug\TickSerializer.1.0.29.nupkg 
+2019-10-20 18:08:22.8181 [DEBUG] [nuget] D:\hetao\github\tick_serializer\CSharpHdf\bin\Debug 
+2019-10-20 18:08:22.8913 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\CSharpHdf\bin\Debug\CSharpHdf.1.0.1.nupkg 
+2019-10-20 18:08:27.4035 [DEBUG] [nuget] D:\hetao\github\tick_serializer\TickSerializer\bin\Debug 
+2019-10-20 18:08:27.4458 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\TickSerializer\bin\Debug\TickSerializer.1.0.29.nupkg 
+2019-10-20 20:36:07.9537 [DEBUG] [nuget] D:\hetao\github\tick_serializer\TickSerializer\bin\Debug 
+2019-10-20 20:36:08.0120 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\TickSerializer\bin\Debug\TickSerializer.1.0.29.nupkg 
+2019-10-20 20:49:22.6848 [DEBUG] [nuget] D:\hetao\github\tick_serializer\TickSerializer\bin\Debug 
+2019-10-20 20:49:22.7275 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\TickSerializer\bin\Debug\TickSerializer.1.0.29.nupkg 
+2019-10-20 20:50:45.1056 [DEBUG] [nuget] D:\hetao\github\tick_serializer\TickSerializer\bin\Debug 
+2019-10-20 20:50:45.1573 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\TickSerializer\bin\Debug\TickSerializer.1.0.30.nupkg 
+2019-10-20 20:52:39.6101 [DEBUG] [nuget] D:\hetao\github\tick_serializer\CSharpHdf\bin\Debug 
+2019-10-20 20:52:39.6544 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\CSharpHdf\bin\Debug\CSharpHdf.1.0.1.nupkg 
+2019-10-20 20:52:42.3582 [DEBUG] [nuget] D:\hetao\github\tick_serializer\TickSerializer\bin\Debug 
+2019-10-20 20:52:42.3940 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\TickSerializer\bin\Debug\TickSerializer.1.0.30.nupkg 
+2019-10-20 22:22:25.8400 [DEBUG] [nuget] D:\hetao\github\tick_serializer\TickSerializer\bin\Debug 
+2019-10-20 22:22:25.9041 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\TickSerializer\bin\Debug\TickSerializer.1.0.30.nupkg 
+2019-10-20 22:30:43.4379 [DEBUG] [nuget] D:\hetao\github\tick_serializer\TickSerializer\bin\Debug 
+2019-10-20 22:30:43.4739 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\TickSerializer\bin\Debug\TickSerializer.1.0.30.nupkg 
+2019-10-20 22:33:40.3680 [DEBUG] [nuget] D:\hetao\github\tick_serializer\TickSerializer\bin\Debug 
+2019-10-20 22:33:40.4209 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\TickSerializer\bin\Debug\TickSerializer.1.0.30.nupkg 
+2019-10-20 22:39:36.8454 [DEBUG] [nuget] D:\hetao\github\tick_serializer\TickSerializer\bin\Debug 
+2019-10-20 22:39:36.8785 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\TickSerializer\bin\Debug\TickSerializer.1.0.30.nupkg 
+2019-10-20 22:53:09.4794 [DEBUG] [nuget] D:\hetao\github\tick_serializer\TickSerializer\bin\Debug 
+2019-10-20 22:53:09.5166 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\TickSerializer\bin\Debug\TickSerializer.1.0.30.nupkg 
+2019-10-20 22:57:35.1006 [DEBUG] [nuget] D:\hetao\github\tick_serializer\LiteMarketDatabase\bin\Debug 
+2019-10-20 22:57:35.1678 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\LiteMarketDatabase\bin\Debug\LiteMarketDatabase.1.0.8.nupkg 
+2019-10-20 22:57:37.1252 [DEBUG] [nuget] D:\hetao\github\tick_serializer\TickSerializer\bin\Debug 
+2019-10-20 22:57:37.1628 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\TickSerializer\bin\Debug\TickSerializer.1.0.30.nupkg 
+2019-10-20 23:19:47.3263 [DEBUG] [nuget] D:\hetao\github\tick_serializer\TickSerializer\bin\Debug 
+2019-10-20 23:19:47.3724 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\TickSerializer\bin\Debug\TickSerializer.1.0.30.nupkg 
+2019-10-21 10:19:13.9008 [DEBUG] [nuget] D:\hetao\github\tick_serializer\TickSerializer\bin\Debug 
+2019-10-21 10:19:13.9809 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\TickSerializer\bin\Debug\TickSerializer.1.0.31.nupkg 
+2019-10-21 10:30:26.9797 [DEBUG] [nuget] D:\hetao\github\tick_serializer\TickSerializer\bin\Debug 
+2019-10-21 10:30:27.0265 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\TickSerializer\bin\Debug\TickSerializer.1.0.32.nupkg 
+2019-10-21 12:20:54.8665 [DEBUG] [nuget] D:\hetao\github\tick_serializer\TickSerializer\bin\Debug 
+2019-10-21 12:20:54.9148 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\TickSerializer\bin\Debug\TickSerializer.1.0.32.nupkg 
+2019-10-21 12:28:59.1356 [DEBUG] [nuget] D:\hetao\github\tick_serializer\TickSerializer\bin\Debug 
+2019-10-21 12:28:59.1809 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\TickSerializer\bin\Debug\TickSerializer.1.0.33.nupkg 
+2019-10-21 14:09:39.6049 [DEBUG] [nuget] D:\hetao\github\tick_serializer\TickSerializer\bin\Debug 
+2019-10-21 14:09:39.6467 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\TickSerializer\bin\Debug\TickSerializer.1.0.34.nupkg 
+2019-10-21 18:32:50.1546 [DEBUG] [nuget] D:\hetao\github\tick_serializer\tushare\bin\Debug 
+2019-10-21 18:32:50.2341 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\tushare\bin\Debug\QuantBox.Tushare.1.0.0.nupkg 
+2019-10-21 18:34:36.6392 [DEBUG] [nuget] D:\hetao\github\tick_serializer\tushare\bin\Debug 
+2019-10-21 18:34:36.6834 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\tushare\bin\Debug\QuantBox.Tushare.1.0.0.nupkg 
+2019-10-21 18:39:16.6698 [DEBUG] [nuget] D:\hetao\github\tick_serializer\tushare\bin\Debug 
+2019-10-21 18:39:16.7101 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\tushare\bin\Debug\QuantBox.Tushare.1.1.0.nupkg 
+2019-10-21 21:02:14.0654 [DEBUG] [nuget] D:\hetao\github\tick_serializer\tushare\bin\Debug 
+2019-10-21 21:02:14.1062 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\tushare\bin\Debug\QuantBox.Tushare.1.1.0.nupkg 
+2019-10-21 21:10:04.7150 [DEBUG] [nuget] D:\hetao\github\tick_serializer\tushare\bin\Debug 
+2019-10-21 21:10:04.7637 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\tushare\bin\Debug\QuantBox.Tushare.1.2.0.nupkg 
+2019-10-22 13:43:32.7524 [DEBUG] [nuget] D:\hetao\github\tick_serializer\TickSerializer\bin\Debug 
+2019-10-22 13:43:32.8357 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\TickSerializer\bin\Debug\TickSerializer.1.0.35.nupkg 
+2019-10-23 12:55:00.0234 [DEBUG] [nuget] D:\hetao\github\tick_serializer\TickSerializer\bin\Debug 
+2019-10-23 12:55:00.1136 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\TickSerializer\bin\Debug\TickSerializer.1.0.35.nupkg 
+2019-10-23 12:56:19.0131 [DEBUG] [nuget] D:\hetao\github\tick_serializer\TickSerializer\bin\Debug 
+2019-10-23 12:56:19.0562 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\TickSerializer\bin\Debug\TickSerializer.1.0.35.nupkg 
+2019-10-23 12:59:32.2926 [DEBUG] [nuget] D:\hetao\github\tick_serializer\TickSerializer\bin\Debug 
+2019-10-23 12:59:32.3313 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\TickSerializer\bin\Debug\TickSerializer.1.0.36.nupkg 
+2019-10-24 18:13:28.8114 [DEBUG] [nuget] D:\hetao\github\tick_serializer\tushare\bin\Debug 
+2019-10-24 18:13:28.8653 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\tushare\bin\Debug\QuantBox.Tushare.1.2.0.nupkg 
+2019-10-24 18:16:25.9799 [DEBUG] [nuget] D:\hetao\github\tick_serializer\tushare\bin\Debug 
+2019-10-24 18:16:26.0259 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\tushare\bin\Debug\QuantBox.Tushare.1.3.0.nupkg 
+2019-10-25 11:21:06.0854 [DEBUG] [nuget] D:\hetao\github\tick_serializer\TickSerializer\bin\Debug 
+2019-10-25 11:21:06.1845 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\TickSerializer\bin\Debug\TickSerializer.1.0.37.nupkg 
+2019-10-25 14:30:01.1323 [DEBUG] [nuget] D:\hetao\github\tick_serializer\TickSerializer\bin\Debug 
+2019-10-25 14:30:01.1749 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\TickSerializer\bin\Debug\TickSerializer.1.0.37.nupkg 
+2019-10-25 14:48:50.5817 [DEBUG] [nuget] D:\hetao\github\tick_serializer\TickSerializer\bin\Debug 
+2019-10-25 14:48:50.6318 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\TickSerializer\bin\Debug\TickSerializer.1.0.37.nupkg 
+2019-10-25 14:50:42.3008 [DEBUG] [nuget] D:\hetao\github\tick_serializer\TickSerializer\bin\Debug 
+2019-10-25 14:50:42.3505 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\TickSerializer\bin\Debug\TickSerializer.1.0.37.nupkg 
+2019-10-25 14:51:49.0362 [DEBUG] [nuget] D:\hetao\github\tick_serializer\TickSerializer\bin\Debug 
+2019-10-25 14:51:49.0732 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\TickSerializer\bin\Debug\TickSerializer.1.0.37.nupkg 
+2019-10-25 15:14:13.6794 [DEBUG] [nuget] D:\hetao\github\tick_serializer\TickSerializer\bin\Debug 
+2019-10-25 15:14:13.7317 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\TickSerializer\bin\Debug\TickSerializer.1.0.37.nupkg 
+2019-10-25 15:36:12.2156 [DEBUG] [nuget] D:\hetao\github\tick_serializer\TickSerializer\bin\Debug 
+2019-10-25 15:36:12.2941 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\TickSerializer\bin\Debug\TickSerializer.1.0.37.nupkg 
+2019-10-25 15:38:03.3407 [DEBUG] [nuget] D:\hetao\github\tick_serializer\TickSerializer\bin\Debug 
+2019-10-25 15:38:03.3804 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\TickSerializer\bin\Debug\TickSerializer.1.0.38.nupkg 
+2019-10-25 16:18:56.6457 [DEBUG] [nuget] D:\hetao\github\tick_serializer\TickSerializer\bin\Debug 
+2019-10-25 16:18:56.6944 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\TickSerializer\bin\Debug\TickSerializer.1.0.39.nupkg 
+2019-10-25 17:46:41.6621 [DEBUG] [nuget] D:\hetao\github\tick_serializer\TickSerializer\bin\Debug 
+2019-10-25 17:46:41.7106 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\TickSerializer\bin\Debug\TickSerializer.1.0.39.nupkg 
+2019-10-25 18:17:20.1668 [DEBUG] [nuget] D:\hetao\github\tick_serializer\TickSerializer\bin\Debug 
+2019-10-25 18:17:20.2277 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\TickSerializer\bin\Debug\TickSerializer.1.0.39.nupkg 
+2019-10-25 18:26:03.7521 [DEBUG] [nuget] D:\hetao\github\tick_serializer\TickSerializer\bin\Debug 
+2019-10-25 18:26:03.8089 [DEBUG] [nuget] find package file: D:\hetao\github\tick_serializer\TickSerializer\bin\Debug\TickSerializer.1.0.40.nupkg 
+2019-10-27 15:59:00.3074 [DEBUG] [nuget] D:\hetao\github\mp3id\ID3\bin\Debug 
+2019-10-27 15:59:00.3924 [DEBUG] [nuget] find package file: D:\hetao\github\mp3id\ID3\bin\Debug\Achamenes.ID3.1.0.0.nupkg 
