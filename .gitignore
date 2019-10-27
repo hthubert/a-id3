@@ -6,3 +6,5 @@ obj
 *.pidb
 */.DS_Store
 .DS_Store
+.vs
+packages

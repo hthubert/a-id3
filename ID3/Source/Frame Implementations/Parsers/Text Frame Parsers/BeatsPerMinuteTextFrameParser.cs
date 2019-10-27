@@ -4,12 +4,12 @@ using System.Text;
 
 namespace Achamenes.ID3.Frames.Parsers
 {
-	class BeatsPerMinuteTextFrameParser : TextFrameParser
-	{
-		protected override Frame ParseFrame(byte[] data)
-		{
-			return new BeatsPerMinuteTextFrame(ParseTextFrame(data));
-		}
-	}
+    class BeatsPerMinuteTextFrameParser : TextFrameParser
+    {
+        protected override Frame ParseFrame(byte[] data)
+        {
+            return new BeatsPerMinuteTextFrame(ParseTextFrame(data));
+        }
+    }
 }
 

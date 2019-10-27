@@ -9,6 +9,7 @@ using Achamenes.ID3.Frames.Parsers;
 using Achamenes.ID3.Frames.Writers;
 using Achamenes.ID3.V1;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using SixLabors.ImageSharp;
 
 namespace Achamenes.ID3Tests
 {
@@ -136,7 +137,7 @@ namespace Achamenes.ID3Tests
             tag.Frames.Add(new OriginalReleaseTimeTextFrame("OriginalReleaseTime"));
 
             // Picture frames
-            System.Drawing.Image img = System.Drawing.Image.FromFile("Resources/photo.jpg");
+            Image img = Image.Load("Resources/photo.jpg");
             tag.Frames.Add(new PictureFrame(img, "Description!", PictureType.CoverBack));
             tag.Frames.Add(new PictureFrame(img, "Yet another attached picture!", PictureType.CoverFront));
 

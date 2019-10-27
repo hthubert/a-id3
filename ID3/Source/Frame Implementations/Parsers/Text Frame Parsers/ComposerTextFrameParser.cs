@@ -4,11 +4,11 @@ using System.Text;
 
 namespace Achamenes.ID3.Frames.Parsers
 {
-	class ComposerTextFrameParser : TextFrameParser
-	{
-		protected override Frame ParseFrame(byte[] data)
-		{
-			return new ComposerTextFrame(ParseTextFrame(data));
-		}
-	}
+    class ComposerTextFrameParser : TextFrameParser
+    {
+        protected override Frame ParseFrame(byte[] data)
+        {
+            return new ComposerTextFrame(ParseTextFrame(data));
+        }
+    }
 }

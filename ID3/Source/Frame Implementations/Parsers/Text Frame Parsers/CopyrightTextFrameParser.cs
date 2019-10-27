@@ -4,13 +4,13 @@ using System.Text;
 
 namespace Achamenes.ID3.Frames.Parsers
 {
-	class CopyrightTextFrameParser : TextFrameParser
-	{
-		protected override Frame ParseFrame(byte[] data)
-		{
-			return new CopyrightTextFrame(ParseTextFrame(data));
-		}
-	}
+    class CopyrightTextFrameParser : TextFrameParser
+    {
+        protected override Frame ParseFrame(byte[] data)
+        {
+            return new CopyrightTextFrame(ParseTextFrame(data));
+        }
+    }
 }
 
 

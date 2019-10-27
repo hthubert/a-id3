@@ -4,11 +4,11 @@ using System.Text;
 
 namespace Achamenes.ID3.Frames.Parsers
 {
-	class OfficialAudioSourceUrlFrameParser : UrlFrameParser
-	{
-		protected override Frame ParseFrame(byte[] data)
-		{
-			return new OfficialAudioSourceUrlFrame(ParseUrlFrame(data));
-		}
-	}
+    class OfficialAudioSourceUrlFrameParser : UrlFrameParser
+    {
+        protected override Frame ParseFrame(byte[] data)
+        {
+            return new OfficialAudioSourceUrlFrame(ParseUrlFrame(data));
+        }
+    }
 }
